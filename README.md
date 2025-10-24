@@ -14,6 +14,41 @@ We evaluate the model with **ROUGE**, **BERTScore**, and **LLM-as-a-Judge** to m
 
 ---
 
+## 🚀 Getting Started
+
+### Requirements
+
+- Python 3.8+
+- PyTorch  
+- Transformers (Hugging Face)  
+- Datasets  
+- PEFT (LoRA fine-tuning)  
+- BitsAndBytes (quantization)  
+- Scikit-learn  
+- ROUGE-score  
+- BERTScore  
+- LangChain (for LLM-based evaluation)  
+- tqdm  
+- Other dependencies listed in `requirements.txt`
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/fine-tuning-DistilBART-for-German-text-summarization.git
+   cd fine-tuning-DistilBART-for-German-text-summarization ```
+
+2. **install dependencies**
+   ```pip install -r requirements.txt```
+   
+3. **Download the dataset**
+   Follow the instructions in data/README.md to download the German Political Speeches Corpus from Kaggle.
+
+4. **Run the notebook**
+   fine_tune_german_summarization.ipynb
+   
+---
+
 ## 🧩 Methodology
 
 ### 1. Dataset
