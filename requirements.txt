@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+peft
+bitsandbytes
+evaluate
+scikit-learn
+pandas
+rouge-score
+bert-score
+tqdm
+langchain
