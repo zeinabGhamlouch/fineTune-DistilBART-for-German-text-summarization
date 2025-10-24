@@ -108,4 +108,31 @@ It achieves good coherence but could improve in relevance, conciseness, and flue
 - **Evaluation beyond ROUGE** (e.g., BERTScore, LLM-as-a-Judge) gives deeper insight into summary quality.
 
 
+## 📚 References
+
+1. **Mexwell.** “*German Political Speeches Corpus.*”  
+   [https://www.kaggle.com/datasets/mexwell/german-political-speeches-corpus](https://www.kaggle.com/datasets/mexwell/german-political-speeches-corpus).  
+   Retrieved March 3, 2025.
+
+2. **A. Meta.** “*Llama 3.2: Revolutionizing Edge AI and Vision with Open, Customizable Models.*”  
+   *Meta AI Blog,* September 2024. Retrieved March 10, 2025.
+
+3. **F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer,  
+   R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, E. Duchesnay, and G. Louppe.**  
+   “*Scikit-learn: Machine Learning in Python.*”  
+   *Journal of Machine Learning Research,* vol. 12, 2012.
+
+4. **S. Shleifer.** “*sshleifer/distilbart-cnn-12-6.*”  
+   [https://huggingface.co/sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/distilbart-cnn-12-6).  
+   Retrieved March 10, 2025.
+
+5. **E. J. Hu, Y. Shen, P. Wallis, Z. Allen-Zhu, Y. Li, S. Wang, and W. Chen.**  
+   “*LoRA: Low-Rank Adaptation of Large Language Models.*”  
+   *CoRR,* abs/2106.09685, 2021.
+
+6. **C.-Y. Lin.** “*ROUGE: A Package for Automatic Evaluation of Summaries.*”  
+   In *Text Summarization Branches Out,* Association for Computational Linguistics, Barcelona, Spain, 2004.
+
+7. **T. Zhang, V. Kishore, F. Wu, K. Q. Weinberger, and Y. Artzi.**  
+   “*BERTScore: Evaluating Text Generation with BERT.*” 2020.
 
